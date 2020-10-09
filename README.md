@@ -1,1 +1,2 @@
-# back-end of web app with sring boot and postgresql #
+# Back-end of Web Application with Spring Boot and PostgreSQL #
+
